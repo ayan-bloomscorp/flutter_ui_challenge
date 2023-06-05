@@ -1,6 +1,4 @@
 import "package:flutter/material.dart";
-import "package:flutter_ui_challenge/home/view/home.dart";
-import "package:flutter_ui_challenge/service/pallette.dart";
 import "package:flutter_ui_challenge/welcome_screen/view/welcome_screen.dart";
 import "package:google_fonts/google_fonts.dart";
 
@@ -16,7 +14,7 @@ class MedicalApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: "Medical App",
-      home: WelcomeScreen(),
+      home: const WelcomeScreen(),
       theme: ThemeData(
         textTheme: GoogleFonts.lexendTextTheme((Theme.of(context).textTheme)),
       ),

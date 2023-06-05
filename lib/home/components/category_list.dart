@@ -1,4 +1,3 @@
-import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_ui_challenge/home/components/category_card.dart';
 import 'package:flutter_ui_challenge/service/assets.dart';
