@@ -7,6 +7,6 @@
 
 | Welcome                          | Home                           |
 | ----------------------------------- | ----------------------------------- |
-| ![welcome](/screenshots/home.png) | ![home](/screenshots/home.png) |
+| ![welcome](screenshots/home.png) | ![home](screenshots/home.png) |
 
 
