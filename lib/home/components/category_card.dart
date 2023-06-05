@@ -13,11 +13,11 @@ class CategoryCard extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Padding(
-      padding: const EdgeInsets.only(right: 25.0),
+      padding: const EdgeInsets.only(right: 20.0),
       child: Container(
         padding: const EdgeInsets.all(12),
         decoration: BoxDecoration(
-          borderRadius: BorderRadius.circular(10.0),
+          borderRadius: BorderRadius.circular(15.0),
           color: Colors.deepPurple.shade50,
         ),
         child: Row(children: [
@@ -25,7 +25,7 @@ class CategoryCard extends StatelessWidget {
           const SizedBox(width: 10.0),
           Text(
             categoryName,
-            style: const TextStyle(fontWeight: FontWeight.w600),
+            style: const TextStyle(fontWeight: FontWeight.w500),
           ),
         ]),
       ),

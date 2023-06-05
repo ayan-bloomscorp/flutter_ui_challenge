@@ -12,8 +12,8 @@ class Constant {
   static const String homeBannerCtaButtonLabel = "Get Started";
   static const String homeSearchBoxHint = "How can we help you?";
   static const String dentistLabel = "Dentist";
-  static const String surgeryLabel = "Surgery";
-  static const String therapyLabel = "Therapy";
+  static const String surgeryLabel = "Surgeon";
+  static const String therapyLabel = "Therapist";
 
   // navigation
   static const String home = "home";
