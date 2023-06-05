@@ -5,8 +5,8 @@
 
 ### Screenshots
 
-| Welcome                          | Home                           |
-| ----------------------------------- | ----------------------------------- |
-| ![welcome](images/welcome.png) | ![home](images/home.png) |
+![welcome](images/welcome.png)
+![home](images/home.png)
+
 
 
