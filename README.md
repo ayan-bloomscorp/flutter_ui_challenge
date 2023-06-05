@@ -1,16 +1,12 @@
-# flutter_ui_challenge
+# Day 1 - Medical App 
 
-A new Flutter project.
 
-## Getting Started
+### design - https://dribbble.com/shots/17942760-Medical-Mobile-App
 
-This project is a starting point for a Flutter application.
+### Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+| Welcome                          | Home                           |
+| ----------------------------------- | ----------------------------------- |
+| ![welcome](./screenshots/welcome.png) | ![homeimage.pngimage.png](./screenshots/home.png) |
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
